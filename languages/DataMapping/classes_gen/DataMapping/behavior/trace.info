@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1163670490218:jetbrains.mps.baseLanguage.structure.SwitchStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1164991038168:jetbrains.mps.baseLanguage.structure.ThrowStatement" />
+  <root>
+    <file name="BehaviorAspectDescriptor.java">
+      <unit at="14,0,32,0" name="DataMapping.behavior.BehaviorAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:a94a024e-b242-4d2f-a84a-6c56b3d73600(DataMapping.behavior)/2671830247027038271">
+    <file name="Template__BehaviorDescriptor.java">
+      <node id="2671830247027038271" at="31,0,32,0" concept="6" trace="CONCEPT" />
+      <node id="2671830247027038271" at="33,0,34,0" concept="6" trace="getScope_id52_Geb4QDV$" />
+      <node id="2671830247027038271" at="35,0,36,0" concept="6" trace="BH_METHODS" />
+      <node id="2671830247027061063" at="41,102,42,175" concept="4" />
+      <node id="2671830247027070057" at="42,175,43,96" concept="5" />
+      <node id="686669299242805985" at="45,201,46,338" concept="4" />
+      <node id="686669299242846036" at="46,338,47,102" concept="5" />
+      <node id="4723674666656328031" at="49,97,50,165" concept="4" />
+      <node id="4723674666656328040" at="50,165,51,95" concept="5" />
+      <node id="8916285174491196460" at="53,373,54,311" concept="4" />
+      <node id="3810560127610940025" at="54,311,55,74" concept="4" />
+      <node id="3810560127610940034" at="55,74,56,97" concept="5" />
+      <node id="8046702935278343935" at="58,96,59,166" concept="4" />
+      <node id="8046702935278343944" at="59,166,60,96" concept="5" />
+      <node id="2671830247027038962" at="61,5,62,140" concept="5" />
+      <node id="2671830247027038271" at="69,114,70,21" concept="1" />
+      <node id="2671830247027038271" at="74,114,75,49" concept="4" />
+      <node id="2671830247027038271" at="76,26,77,56" concept="9" />
+      <node id="2671830247027038271" at="80,13,81,115" concept="5" />
+      <node id="2671830247027038271" at="82,14,83,58" concept="9" />
+      <node id="2671830247027038271" at="88,128,89,49" concept="4" />
+      <node id="2671830247027038271" at="90,26,91,56" concept="9" />
+      <node id="2671830247027038271" at="94,14,95,58" concept="9" />
+      <node id="2671830247027038271" at="101,48,102,22" concept="5" />
+      <node id="2671830247027038271" at="107,40,108,19" concept="5" />
+      <node id="2671830247027038271" at="112,0,113,0" concept="6" trace="SourceAbstractItem$bh" />
+      <node id="2671830247027038271" at="113,0,114,0" concept="6" trace="SourceEntityRef$pM" />
+      <node id="2671830247027038271" at="114,0,115,0" concept="6" trace="ValueDef$Mu" />
+      <node id="2671830247027038271" at="115,0,116,0" concept="6" trace="ParameterValueDef$ZW" />
+      <node id="2671830247027038271" at="116,0,117,0" concept="6" trace="JSONMappingValueRef$IK" />
+      <node id="2671830247027038271" at="117,0,118,0" concept="6" trace="MappingValueRef$rR" />
+      <node id="2671830247027038271" at="118,0,119,0" concept="6" trace="SourceDef$NF" />
+      <node id="2671830247027038271" at="119,0,120,0" concept="6" trace="MappingDef$$Y" />
+      <node id="2671830247027038271" at="120,0,121,0" concept="6" trace="ParameterMappingDef$3m" />
+      <node id="2671830247027038271" at="121,0,122,0" concept="6" trace="XlsSection$Qq" />
+      <node id="2671830247027038271" at="122,0,123,0" concept="6" trace="XMLDataItem$KN" />
+      <node id="2671830247027038271" at="123,0,124,0" concept="6" trace="JSONDataItem$QI" />
+      <node id="2671830247027038271" at="124,0,125,0" concept="6" trace="MappingDefRef$Gv" />
+      <node id="2671830247027038271" at="125,0,126,0" concept="6" trace="ParamItem$4M" />
+      <node id="2671830247027038271" at="126,0,127,0" concept="6" trace="IParamRef$yT" />
+      <node id="2671830247027038271" at="127,0,128,0" concept="6" trace="ScopeProvider$aq" />
+      <node id="2671830247027038271" at="37,0,39,0" concept="7" trace="___init___#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="2671830247027038271" at="65,0,67,0" concept="0" trace="Template__BehaviorDescriptor#()V" />
+      <node id="2671830247027038271" at="75,49,78,5" concept="2" />
+      <node id="2671830247027038271" at="89,49,92,5" concept="2" />
+      <node id="2671830247027049845" at="40,116,44,5" concept="2" />
+      <node id="686669299242799278" at="44,5,48,5" concept="2" />
+      <node id="4723674666656323833" at="48,5,52,5" concept="2" />
+      <node id="8046702935278343933" at="57,5,61,5" concept="2" />
+      <node id="2671830247027038271" at="68,0,72,0" concept="3" trace="initNode#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/core/aspects/behaviour/api/SConstructor;[Ljava/lang/Object;)V" />
+      <node id="2671830247027038271" at="92,5,96,5" concept="8" />
+      <node id="3810560127610940023" at="52,5,57,5" concept="2" />
+      <node id="2671830247027038271" at="99,0,104,0" concept="3" trace="getDeclaredMethods#()Ljava/util/List;" />
+      <node id="2671830247027038271" at="105,0,110,0" concept="3" trace="getConcept#()Lorg/jetbrains/mps/openapi/language/SAbstractConcept;" />
+      <node id="2671830247027038271" at="78,5,84,5" concept="8" />
+      <node id="2671830247027038271" at="87,0,98,0" concept="3" trace="invokeSpecial0#(Lorg/jetbrains/mps/openapi/language/SAbstractConcept;Ljetbrains/mps/core/aspects/behaviour/api/SMethod;[Ljava/lang/Object;)null" />
+      <node id="2671830247027038271" at="73,0,86,0" concept="3" trace="invokeSpecial0#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/core/aspects/behaviour/api/SMethod;[Ljava/lang/Object;)null" />
+      <node id="2671830247027038271" at="40,0,64,0" concept="7" trace="getScope_id52_Geb4QDV$#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/language/SAbstractConcept;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/scope/Scope;" />
+      <scope id="2671830247027038271" at="37,63,37,63" />
+      <scope id="2671830247027038271" at="65,46,65,46" />
+      <scope id="2671830247027038271" at="69,114,70,21" />
+      <scope id="2671830247027038271" at="76,26,77,56" />
+      <scope id="2671830247027038271" at="80,13,81,115" />
+      <scope id="2671830247027038271" at="82,14,83,58" />
+      <scope id="2671830247027038271" at="90,26,91,56" />
+      <scope id="2671830247027038271" at="94,14,95,58" />
+      <scope id="2671830247027038271" at="101,48,102,22" />
+      <scope id="2671830247027038271" at="107,40,108,19" />
+      <scope id="2671830247027038271" at="37,0,39,0">
+        <var name="__thisNode__" id="2671830247027038271" />
+      </scope>
+      <scope id="2671830247027049847" at="41,102,43,96">
+        <var name="entityRefScope" id="2671830247027061064" />
+      </scope>
+      <scope id="686669299242799280" at="45,201,47,102">
+        <var name="mappingValueRefScope" id="686669299242805986" />
+      </scope>
+      <scope id="4723674666656323835" at="49,97,51,95">
+        <var name="sorceDefScope" id="4723674666656328032" />
+      </scope>
+      <scope id="8046702935278343934" at="58,96,60,96">
+        <var name="paramItemScope" id="8046702935278343936" />
+      </scope>
+      <scope id="2671830247027038271" at="65,0,67,0" />
+      <scope id="3810560127610940024" at="53,373,56,97">
+        <var name="mappingDefScope" id="3810560127610940026" />
+        <var name="mappingDefs" id="8916285174491196463" />
+      </scope>
+      <scope id="2671830247027038271" at="68,0,72,0">
+        <var name="constructor" id="2671830247027038271" />
+        <var name="node" id="2671830247027038271" />
+        <var name="parameters" id="2671830247027038271" />
+      </scope>
+      <scope id="2671830247027038271" at="99,0,104,0" />
+      <scope id="2671830247027038271" at="105,0,110,0" />
+      <scope id="2671830247027038271" at="88,128,96,5">
+        <var name="methodIndex" id="2671830247027038271" />
+      </scope>
+      <scope id="2671830247027038271" at="74,114,84,5">
+        <var name="methodIndex" id="2671830247027038271" />
+      </scope>
+      <scope id="2671830247027038271" at="87,0,98,0">
+        <var name="concept" id="2671830247027038271" />
+        <var name="method" id="2671830247027038271" />
+        <var name="parameters" id="2671830247027038271" />
+      </scope>
+      <scope id="2671830247027038271" at="73,0,86,0">
+        <var name="method" id="2671830247027038271" />
+        <var name="node" id="2671830247027038271" />
+        <var name="parameters" id="2671830247027038271" />
+      </scope>
+      <scope id="2671830247027038951" at="40,116,62,140" />
+      <scope id="2671830247027038271" at="40,0,64,0">
+        <var name="__thisNode__" id="2671830247027038271" />
+        <var name="child" id="2671830247027038954" />
+        <var name="kind" id="2671830247027038952" />
+      </scope>
+      <unit id="2671830247027038271" at="111,0,129,0" name="DataMapping.behavior.Template__BehaviorDescriptor$CONCEPTS" />
+      <unit id="2671830247027038271" at="30,0,130,0" name="DataMapping.behavior.Template__BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+

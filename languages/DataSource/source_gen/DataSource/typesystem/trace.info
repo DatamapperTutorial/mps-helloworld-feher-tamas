@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1082485599095:jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <root>
+    <file name="TypesystemDescriptor.java">
+      <unit at="8,0,16,0" name="DataSource.typesystem.TypesystemDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:1ab89236-058f-48de-bebc-d81b5618d194(DataSource.typesystem)/4432156404050046750">
+    <file name="TypesystemDescriptor.java">
+      <node id="4432156404050046750" at="10,5,11,81" concept="4" />
+      <node id="4432156404050046750" at="11,81,12,47" concept="2" />
+      <node id="4432156404050046750" at="9,33,13,5" concept="0" />
+      <scope id="4432156404050046750" at="10,5,12,47">
+        <var name="inferenceRule" id="4432156404050046750" />
+      </scope>
+    </file>
+    <file name="typeOf_Attribute_InferenceRule.java">
+      <node id="4432156404050050792" at="21,5,22,51" concept="4" />
+      <node id="4432156404050050792" at="22,51,23,187" concept="4" />
+      <node id="4432156404050050792" at="23,187,24,281" concept="2" />
+      <node id="4432156404050046750" at="27,50,28,33" concept="5" />
+      <node id="4432156404050046750" at="30,68,31,102" concept="5" />
+      <node id="4432156404050046750" at="33,30,34,17" concept="5" />
+      <node id="4432156404050046750" at="38,0,39,0" concept="6" trace="type$T2Ku" />
+      <node id="4432156404050046750" at="42,0,43,0" concept="6" trace="Attribute$nJ" />
+      <node id="4432156404050046750" at="18,0,20,0" concept="1" trace="typeOf_Attribute_InferenceRule#()V" />
+      <node id="4432156404050046750" at="27,0,30,0" concept="3" trace="getApplicableConcept#()Lorg/jetbrains/mps/openapi/language/SAbstractConcept;" />
+      <node id="4432156404050046750" at="30,0,33,0" concept="3" trace="isApplicableAndPattern#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;" />
+      <node id="4432156404050046750" at="33,0,36,0" concept="3" trace="overrides#()Z" />
+      <node id="4432156404050050792" at="20,122,25,5" concept="0" />
+      <node id="4432156404050046750" at="20,0,27,0" concept="3" trace="applyRule#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/typesystem/inference/TypeCheckingContext;Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;)V" />
+      <scope id="4432156404050046750" at="18,43,18,43" />
+      <scope id="4432156404050046750" at="27,50,28,33" />
+      <scope id="4432156404050046750" at="30,68,31,102" />
+      <scope id="4432156404050046750" at="33,30,34,17" />
+      <scope id="4432156404050046750" at="18,0,20,0" />
+      <scope id="4432156404050050792" at="21,5,24,281">
+        <var name="_info_12389875345" id="4432156404050050792" />
+        <var name="_nodeToCheck_1029348928467" id="4432156404050050792" />
+      </scope>
+      <scope id="4432156404050046750" at="27,0,30,0" />
+      <scope id="4432156404050046750" at="30,0,33,0">
+        <var name="argument" id="4432156404050046750" />
+      </scope>
+      <scope id="4432156404050046750" at="33,0,36,0" />
+      <scope id="4432156404050046751" at="20,122,25,5" />
+      <scope id="4432156404050046750" at="20,0,27,0">
+        <var name="attribute" id="4432156404050046750" />
+        <var name="status" id="4432156404050046750" />
+        <var name="typeCheckingContext" id="4432156404050046750" />
+      </scope>
+      <unit id="4432156404050046750" at="37,0,40,0" name="DataSource.typesystem.typeOf_Attribute_InferenceRule$LINKS" />
+      <unit id="4432156404050046750" at="41,0,44,0" name="DataSource.typesystem.typeOf_Attribute_InferenceRule$CONCEPTS" />
+      <unit id="4432156404050046750" at="17,0,45,0" name="DataSource.typesystem.typeOf_Attribute_InferenceRule" />
+    </file>
+  </root>
+</debug-info>
+

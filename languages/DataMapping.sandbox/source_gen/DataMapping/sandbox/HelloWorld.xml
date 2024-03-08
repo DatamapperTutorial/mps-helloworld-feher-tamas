@@ -1,0 +1,17 @@
+<?xml version = "1.0"?>
+<DataMapping>  
+  <FileEncoding>IBM_852</FileEncoding>
+  <FormatList></FormatList>
+  <ParamDef></ParamDef>
+  <SourceDefList>    
+    <SourceDef name="Dolgozok">      
+      <EntityRef entity="Person" alias="p" />
+      <OrderBy></OrderBy>
+    </SourceDef>
+  </SourceDefList>
+  <FilterDef></FilterDef>
+  <MappingDefList>    
+    <ParameterMappingDef name=""></ParameterMappingDef>
+  </MappingDefList>
+  <Renderings></Renderings>
+</DataMapping>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product version="3" modelHash="-3tsg8t55qmesm5hg041cifswx1nuh75">
+  <files names="ConceptPresentationAspectImpl.java:EnumerationDescriptor_CSVFieldSeparator.java:EnumerationDescriptor_CSVQuoteChar.java:EnumerationDescriptor_ComparisonOperator.java:EnumerationDescriptor_DecimalSeparatorEnum.java:EnumerationDescriptor_FileEncoding.java:EnumerationDescriptor_HeaderType.java:EnumerationDescriptor_JoinType.java:EnumerationDescriptor_RangeComparisonEnum.java:EnumerationDescriptor_RoundingMethodEnum.java:EnumerationDescriptor_TextAlignmentEnum.java:EnumerationDescriptor_ThousandSeparatorEnum.java:LanguageConceptSwitch.java:StructureAspectDescriptor.java" />
+</product>
+

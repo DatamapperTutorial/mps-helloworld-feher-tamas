@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <root nodeRef="r:6f4fa47d-4d57-4245-8e79-1e89a07489c1(DataMapping.sandbox)/5100976609676552455">
+    <file name="HelloWorld.xml">
+      <unit id="5100976609676552455" at="1,0,17,14" name="DataMapping.sandbox.HelloWorld" />
+    </file>
+  </root>
+</debug-info>
+

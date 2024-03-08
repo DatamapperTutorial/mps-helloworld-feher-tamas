@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/Base/Base.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/DataMapping.sandbox/DataMapping.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/DataMapping/DataMapping.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/DataSource/DataSource.mpl" folder="" />
+    </projectModules>
+  </component>
+</project>
